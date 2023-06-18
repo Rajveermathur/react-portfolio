@@ -7,11 +7,11 @@ const meta = {
 const introdata = {
     title: "I’m Rajveer Mathur",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Full Stack Developer",
+        second: "Cloud Engineer",
+        third: "Volunteering Educator",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Welcome to my Portfolio, Work in Progress, crafting an exceptional online experience for you.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -147,10 +147,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/Rajveermathur",
+    facebook: "https://www.facebook.com/",
+    linkedin: "https://www.linkedin.com/in/rajveer-mathur2599/",
+    instagram: "https://www.instagram.com/",
 };
 export {
     meta,
