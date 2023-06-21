@@ -12,12 +12,12 @@ const introdata = {
         third: "Volunteering Educator",
     },
     description: "Welcome to my Portfolio, Work in Progress, crafting an exceptional online experience for you.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    //your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I'm a versatile professional who thrives on complex challenges, generating innovative solutions with strategic precision. I fearlessly embrace high-pressure situations, consistently delivering exceptional results. Brace yourself for a dynamic force ready to make a resounding impact.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -41,20 +41,32 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Djano",
+        name: "SQL",
         value: 85,
     },
     {
         name: "Javascript",
-        value: 80,
+        value: 70,
     },
     {
         name: "React",
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "Angular",
         value: 85,
+    },
+    {
+        name: "HTML5",
+        value: 95,
+    },
+    {
+        name: "CSS3 + Bootstrap",
+        value: 80,
+    },
+    {
+        name: "Express",
+        value: 50,
     },
 ];
 
@@ -136,9 +148,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "rajveer.mathur25@gmail.com",
+    YOUR_FONE: "(+91)8009992328",
+    description: "Let's connect and bring ideas to life! Whether you have a question, collaboration opportunity, or just want to say hello, I'd love to hear from you. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -148,9 +160,9 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/Rajveermathur",
-    facebook: "https://www.facebook.com/",
+    facebook: "https://www.facebook.com/rajveer.commander25/",
     linkedin: "https://www.linkedin.com/in/rajveer-mathur2599/",
-    instagram: "https://www.instagram.com/",
+    instagram: "https://www.instagram.com/_rajveer.mathur_/",
 };
 export {
     meta,
