@@ -7,9 +7,9 @@ const meta = {
 const introdata = {
     title: "I’m Rajveer Mathur",
     animated: {
-        first: "Full Stack Developer",
-        second: "Cloud Engineer",
-        third: "Volunteering Educator",
+        first: "Cloud Professional",
+        second: "Generative AI Engineer",
+        third: "Full Stack Developer",
     },
     description: "Welcome to my Portfolio, Work in Progress, crafting an exceptional online experience for you.",
     //your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
