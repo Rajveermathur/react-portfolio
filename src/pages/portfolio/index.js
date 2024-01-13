@@ -20,8 +20,8 @@ export const Portfolio = () => {
             <hr className="t_border my-4 ml-0 text-left" />
           </Col>
         </Row>
-        <h3>Well things are under progress here. </h3>
-        <div className="mb-5 po_items_ho" style={{filter: 'blur(10px)'}}><br/> <br/> 
+        {/* <h3>Well things are under progress here. </h3>style={{filter: 'blur(10px)'}} */}
+        <div className="mb-5 po_items_ho" ><br/> <br/> 
           {dataportfolio.map((data, i) => {
             return (
               <div key={i} className="po_item">
